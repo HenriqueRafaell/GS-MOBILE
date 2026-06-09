@@ -8,11 +8,8 @@ O SpaceConnect conecta dados da indústria espacial ao cotidiano, exibindo infor
 
 ## Equipe
 
-| Nome | RM |
-|------|----|
-|      |    |
-|      |    |
-|      |    |
+RM:553945
+HENRIQUE RAFAEL 
 
 ## Funcionalidades
 
