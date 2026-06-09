@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-Process -Name \"node\" -ErrorAction SilentlyContinue)",
+      "PowerShell(Stop-Process -Force)"
+    ],
+    "additionalDirectories": [
+      "d:\\Area de trabalho\\space-connect\\src\\hooks",
+      "d:\\Area de trabalho\\space-connect\\src\\utils",
+      "d:\\Area de trabalho\\space-connect\\src\\components",
+      "d:\\Area de trabalho\\space-connect\\src\\screens",
+      "d:\\Area de trabalho\\space-connect\\src\\navigation",
+      "d:\\Area de trabalho\\space-connect"
+    ]
+  }
+}
